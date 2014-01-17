@@ -1,7 +1,7 @@
 ESSENTIALS
 ==========
-FlashPlayer
-Devilspie
+*FlashPlayer
+*Devilspie
 
 SERVER
 ======
