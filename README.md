@@ -70,7 +70,7 @@ TOOLS
 EMULATION
 =========
 * WINE [`WinAPI emulator`]
-* VitrualBox [`virtual machine`]
+* VirtualBox [`virtual machine`]
 
 SCIENCE & MATH
 ==============
