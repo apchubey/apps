@@ -16,7 +16,7 @@ PROGRAMMING
 * Kate
 * Eclipse
 * Codeblocks
-* Bluefish
+* Bluefish [`HTML editor`]
 * Gedit
 * Terminator
 * Guake Terminal
@@ -25,20 +25,20 @@ DESKTOP CUSTOMIZATION
 =====================
 * Tweak Tools
 * Compiz
-* Cairo Dock
+* Cairo Dock [`desktop dock`]
 
 WWW
 ===
-* Thunderbird
-* FileZilla
-* Firefox
-* Chromium
-* Pidgin
-* Transmission
+* Thunderbird [`email client`]
+* FileZilla [`ftp client`]
+* Firefox [`browser`]
+* Chromium [`browser`]
+* Pidgin [`chat client`]
+* Transmission [`bittorrent client`]
 
 MULTIMEDIA
 ==========
-* VLC Player
+* VLC Player [`media player`]
 * Amarok
 * Rhythmbox
 
@@ -69,8 +69,8 @@ TOOLS
 
 EMULATION
 =========
-* WINE
-* VitrualBox
+* WINE [`WinAPI emulator`]
+* VitrualBox [`virtual machine`]
 
 SCIENCE & MATH
 ==============
