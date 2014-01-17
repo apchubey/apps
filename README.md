@@ -44,26 +44,26 @@ MULTIMEDIA
 
 EDITOR
 ======
-* GIMP [image manipulation]
-* Audacity [audio manipulation]
+* GIMP [`image manipulation`]
+* Audacity [`audio manipulation` ]
 * SoundConverter
-* Handbrake [video converter]
+* Handbrake [`video converter`]
 * recordMyDesktop
-* KDenlive [video editor]
-* Openshot [video editor]
-* Blender [3D content editor]
-* Pitivi [video editor]
-* Inkscape [vectoral drawing]
-* Lightworks [professional film maker]
+* KDenlive [`video editor`]
+* Openshot [`video editor`]
+* Blender [`3D content editor`]
+* Pitivi [`video editor`]
+* Inkscape [`vectoral drawing`]
+* Lightworks [`professional film maker`]
 
 TOOLS
 =====
-* MultiSystem [multibootable USB with GRUB2]
+* MultiSystem [`multibootable USB with GRUB2`]
 * LibreOffice
-* Lingot [tuner]
+* Lingot [`tuner`]
 * Shotwell
-* Okular [PDF, ePub ... reader]
-* Evince Document Viewer [PDF, DVI ... reader]
+* Okular [`PDF, ePub ... reader`]
+* Evince Document Viewer [`PDF, DVI ... reader`]
 * GRUB Customizer
 * GParted
 
@@ -74,6 +74,6 @@ EMULATION
 
 SCIENCE & MATH
 ==============
-* Geogebra [algebraic geometry]
+* Geogebra [`algebraic geometry`]
 * LaTeX
-* LyX [LaTeX editor]
+* LyX [`LaTeX editor`]
