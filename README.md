@@ -1,12 +1,15 @@
-=== ESSENTIALS ===
+ESSENTIALS
+==========
 FlashPlayer
 Devilspie
 
-=== SERVER ===
+SERVER
+======
 Apache
 PHP
 
-=== PROGRAMMING ===
+PROGRAMMING
+===========
 Emacs
 VIM
 Geany
