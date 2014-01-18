@@ -66,7 +66,7 @@ TOOLS
 * Evince Document Viewer [`PDF, DVI ... reader`]
 * GRUB Customizer
 * GParted
-* Shutter [´printscreen´]
+* Shutter [`printscreen`]
 
 EMULATION
 =========
