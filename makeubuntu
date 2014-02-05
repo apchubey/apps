@@ -1,2 +1,1 @@
-sudo apt-get install build-essential checkinstall cvs subversion git-core mercurial synaptic ubuntu-tweak 
-gnome-tweak-tool unity-tweak-tool indicator-multiload indicator-cpufreq diodon diodon-plugins vlc flashplugin-installer
+sudo apt-get install build-essential ubuntu-restricted-extras checkinstall cvs subversion git-core mercurial synaptic ubuntu-tweak gnome-tweak-tool unity-tweak-tool indicator-multiload indicator-cpufreq diodon diodon-plugins vlc flashplugin-installer transmission libavformat-extra-53 libavcodec-extra-53 icedtea-7-plugin openjdk-7-jre openjdk-7-jdk
